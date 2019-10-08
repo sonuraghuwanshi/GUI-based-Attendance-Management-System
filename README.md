@@ -11,4 +11,9 @@ Responsibility: - Worked as a team leader in the group of 3 people and assisted 
 Key Technologies: -
 		Language	: Java SE, SQL
 		Platform	: NetBeans, SQLite
+		
+		
+		
+		
 
+ Don't try to copy because I haven't shared few files. If you really want to learn then ping me. I will let you know
